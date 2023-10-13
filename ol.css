@@ -1,0 +1,183 @@
+/* CREDIT */
+
+.creditforeli {
+	background: #FFF; 
+	color: #111; font: 8px/8px times; 
+	letter-spacing: 1px; 
+	margin-top: 5px; 
+	padding: 3px; 
+	text-align: center; 
+	text-transform: uppercase; 
+	width: 50px;
+}
+
+/* NUMBER ONE */
+
+#ol-1 {
+	background: #FFF; 
+	border: 10px solid #EFEFEF; 
+	width: 230px;
+}
+#ol-1 img {
+	width: 230px;
+}
+.ol-1-a {
+	color: #000;
+	font: 10px/95% helvetica, arial; 
+	padding: 20px; 
+	text-align: justify;
+}
+
+/* NUMBER TWO */
+
+#ol-2 {
+background: #FFF;
+border-left: 30px solid #336699;
+color: #111;
+font: 9px/95% helvetica, arial;
+padding: 15px;
+text-align: justify;
+width: 200px;
+}
+#ol-2 img {
+margin-bottom: 10px;
+width: 200px;
+}
+#ol-2 b {
+	font: bold 11px/100% helvetica, arial;
+}
+
+/* NUMBER THREE */
+
+#ol-3 {
+	background: #F9F9F9;
+	border: 10px solid #EFEFEF;
+	width: 230px;
+}
+.ol-3-a {
+	height: 90px;
+	overflow: hidden;
+	width: 90px;
+}
+.ol-3-a img {
+	width: 90px;
+}
+.ol-3-b {
+	color: #FFF;
+	font: 8px/115% Nova Flat;
+	height: 90px;
+	overflow: hidden;
+	text-align: justify;
+	text-transform: uppercase;
+	width: 110px;
+}
+.ol-3-c {
+	color: #111;
+	font: 10px/95% helvetica, arial;
+	padding: 20px;
+	text-align: justify;
+}
+.ol-3-c b {
+	font: bold 11px/100% helvetica, arial;
+}
+.ol-3-d {
+	color: #FFF;
+	font: 9px/9px nova flat;
+	letter-spacing: 1px;
+	padding: 10px;
+	text-align: center;
+	text-transform: uppercase;
+}
+.ol-3-f { 
+	padding: 10px;
+}
+
+/* NUMBER FOUR */
+
+#ol-4 {
+	background: #FFF;
+	padding: 40px;
+	width: 210px;
+}
+.ol-4-a {
+	display: inline-block;
+	height: 100px;
+	margin-top: -60px;
+	overflow: hidden;
+	width: 100px;
+	border-radius: 100%;
+	-ms-border-radius: 100%;
+	-moz-border-radius: 100%;
+	-o-border-radius: 100%;
+	-webkit-border-radius: 100%;
+}
+.ol-4-b {
+	color: #111;
+	font: 9px/115% helvetica, arial;
+	letter-spacing: 1px;
+	margin-top: 50px;
+	padding: 15px;
+	text-align: justify;
+}
+.ol-4-b b {
+	font: bold 12px/115% helvetica, arial;
+	letter-spacing: 0px;
+}
+.ol-4-c {
+	height: 10px;
+	margin-left: -40px;
+	margin-top: 40px;
+	width: 290px;
+}
+
+/* NUMBER FIVE */
+
+#rf-1 { 
+	background: #FFF; 
+	border: 40px solid #EFEFEF; 
+	width: 350px;
+}
+.rf-1-d {
+	background: url(http://subtlepatterns.com/patterns/wild_flowers.png); 
+	float: left; 
+	width: 140px;
+}
+.rf-1-a {
+	background: rgba(152,134,218,0.4); 
+	padding: 20px;
+}
+.rf-1-b {
+	background: rgba(255,255,255,0.1); 
+	border-color: rgba(255,255,255,0.1); 
+	border-style: solid; 
+	border-width: 10px; 
+	height: 80px; margin-top: 120px; width: 80px;
+}
+.rf-1-b img {
+	height: 80px; 
+	width: 80px;
+}
+.rf-1-c {
+	border: 20px solid #FFF; 
+	color: #111; 
+	float: right; 
+	font: 9px/115% helvetica, arial; 
+	height: 220px; 
+	letter-spacing: 1px; 
+	overflow: auto; 
+	padding-right: 5px; 
+	text-align: justify; 
+	width: 165px;
+}
+.rf-1-c b {
+	font: bold 13px/100% helvetica, arial; 
+	letter-spacing: 0px;
+}
+.rf-1-c::-webkit-scrollbar {
+	background: #111; 
+	border: 1px solid #FFF; 
+	width: 3px;
+}
+.rf-1-c::-webkit-scrollbar-thumb {
+	background: #111;
+}
